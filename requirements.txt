@@ -1,4 +1,3 @@
 streamlit
-face_recognition
-numpy
+deepface
 Pillow
